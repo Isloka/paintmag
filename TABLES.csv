@@ -1,0 +1,443 @@
+ENGINE,CHECKSUM,DATA_FREE,VERSION,CHECK_TIME,ROW_FORMAT,TABLE_ROWS,TABLE_TYPE,CREATE_TIME,DATA_LENGTH,UPDATE_TIME,INDEX_LENGTH,TABLE_SCHEMA,TABLE_NAME,TABLE_CATALOG,TABLE_COMMENT,AUTO_INCREMENT,AVG_ROW_LENGTH,CREATE_OPTIONS,MAX_DATA_LENGTH,TABLE_COLLATION
+MEMORY,NULL,0,10,NULL,Fixed,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,NULL,0,information_schema,CHARACTER_SETS,def,<blank>,NULL,384,max_rows=43690,16434816,utf8_general_ci
+MEMORY,NULL,0,10,NULL,Fixed,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,NULL,0,information_schema,COLLATIONS,def,<blank>,NULL,231,max_rows=72628,16704765,utf8_general_ci
+MEMORY,NULL,0,10,NULL,Fixed,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,NULL,0,information_schema,COLLATION_CHARACTER_SET_APPLICABILITY,def,<blank>,NULL,195,max_rows=86037,16357770,utf8_general_ci
+MyISAM,NULL,0,10,NULL,Dynamic,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,2020-09-14 17:25:53,1024,information_schema,COLUMNS,def,<blank>,NULL,0,max_rows=2794,281474976710655,utf8_general_ci
+MEMORY,NULL,0,10,NULL,Fixed,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,NULL,0,information_schema,COLUMN_PRIVILEGES,def,<blank>,NULL,2565,max_rows=6540,16757145,utf8_general_ci
+MEMORY,NULL,0,10,NULL,Fixed,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,NULL,0,information_schema,ENGINES,def,<blank>,NULL,490,max_rows=34239,16574250,utf8_general_ci
+MyISAM,NULL,0,10,NULL,Dynamic,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,2020-09-14 17:25:53,1024,information_schema,EVENTS,def,<blank>,NULL,0,max_rows=619,281474976710655,utf8_general_ci
+MEMORY,NULL,0,10,NULL,Fixed,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,NULL,0,information_schema,FILES,def,<blank>,NULL,2659,max_rows=6309,16743723,utf8_general_ci
+MEMORY,NULL,0,10,NULL,Fixed,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,NULL,0,information_schema,GLOBAL_STATUS,def,<blank>,NULL,3268,max_rows=5133,16755036,utf8_general_ci
+MEMORY,NULL,0,10,NULL,Fixed,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,NULL,0,information_schema,GLOBAL_VARIABLES,def,<blank>,NULL,3268,max_rows=5133,16755036,utf8_general_ci
+MEMORY,NULL,0,10,NULL,Fixed,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,NULL,0,information_schema,KEY_COLUMN_USAGE,def,<blank>,NULL,4637,max_rows=3618,16762755,utf8_general_ci
+MyISAM,NULL,0,10,NULL,Dynamic,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,2020-09-14 17:25:53,1024,information_schema,OPTIMIZER_TRACE,def,<blank>,NULL,0,max_rows=578524,281474976710655,utf8_general_ci
+MyISAM,NULL,0,10,NULL,Dynamic,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,2020-09-14 17:25:53,1024,information_schema,PARAMETERS,def,<blank>,NULL,0,max_rows=6021,281474976710655,utf8_general_ci
+MyISAM,NULL,0,10,NULL,Dynamic,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,2020-09-14 17:25:53,1024,information_schema,PARTITIONS,def,<blank>,NULL,0,max_rows=5596,281474976710655,utf8_general_ci
+MyISAM,NULL,0,10,NULL,Dynamic,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,2020-09-14 17:25:53,1024,information_schema,PLUGINS,def,<blank>,NULL,0,max_rows=11328,281474976710655,utf8_general_ci
+MyISAM,NULL,0,10,NULL,Dynamic,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,2020-09-14 17:25:53,1024,information_schema,PROCESSLIST,def,<blank>,NULL,0,max_rows=23899,281474976710655,utf8_general_ci
+MEMORY,NULL,0,10,NULL,Fixed,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,NULL,0,information_schema,PROFILING,def,<blank>,NULL,308,max_rows=54471,16562084,utf8_general_ci
+MEMORY,NULL,0,10,NULL,Fixed,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,NULL,0,information_schema,REFERENTIAL_CONSTRAINTS,def,<blank>,NULL,4814,max_rows=3485,16767162,utf8_general_ci
+MyISAM,NULL,0,10,NULL,Dynamic,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,2020-09-14 17:25:53,1024,information_schema,ROUTINES,def,<blank>,NULL,0,max_rows=583,281474976710655,utf8_general_ci
+MEMORY,NULL,0,10,NULL,Fixed,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,NULL,0,information_schema,SCHEMATA,def,<blank>,NULL,3464,max_rows=4843,16738048,utf8_general_ci
+MEMORY,NULL,0,10,NULL,Fixed,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,NULL,0,information_schema,SCHEMA_PRIVILEGES,def,<blank>,NULL,2179,max_rows=7699,16736899,utf8_general_ci
+MEMORY,NULL,0,10,NULL,Fixed,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,NULL,0,information_schema,SESSION_STATUS,def,<blank>,NULL,3268,max_rows=5133,16755036,utf8_general_ci
+MEMORY,NULL,0,10,NULL,Fixed,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,NULL,0,information_schema,SESSION_VARIABLES,def,<blank>,NULL,3268,max_rows=5133,16755036,utf8_general_ci
+MEMORY,NULL,0,10,NULL,Fixed,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,NULL,0,information_schema,STATISTICS,def,<blank>,NULL,5753,max_rows=2916,16752736,utf8_general_ci
+MEMORY,NULL,0,10,NULL,Fixed,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,NULL,0,information_schema,TABLES,def,<blank>,NULL,9441,max_rows=1777,16757775,utf8_general_ci
+MEMORY,NULL,0,10,NULL,Fixed,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,NULL,0,information_schema,TABLESPACES,def,<blank>,NULL,6951,max_rows=2413,16772763,utf8_general_ci
+MEMORY,NULL,0,10,NULL,Fixed,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,NULL,0,information_schema,TABLE_CONSTRAINTS,def,<blank>,NULL,2504,max_rows=6700,16721712,utf8_general_ci
+MEMORY,NULL,0,10,NULL,Fixed,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,NULL,0,information_schema,TABLE_PRIVILEGES,def,<blank>,NULL,2372,max_rows=7073,16748692,utf8_general_ci
+MyISAM,NULL,0,10,NULL,Dynamic,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,2020-09-14 17:25:53,1024,information_schema,TRIGGERS,def,<blank>,NULL,0,max_rows=569,281474976710655,utf8_general_ci
+MEMORY,NULL,0,10,NULL,Fixed,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,NULL,0,information_schema,USER_PRIVILEGES,def,<blank>,NULL,1986,max_rows=8447,16726092,utf8_general_ci
+MyISAM,NULL,0,10,NULL,Dynamic,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,2020-09-14 17:25:53,1024,information_schema,VIEWS,def,<blank>,NULL,0,max_rows=6935,281474976710655,utf8_general_ci
+MEMORY,NULL,0,10,NULL,Fixed,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,NULL,0,information_schema,INNODB_LOCKS,def,<blank>,NULL,31244,max_rows=536,16746784,utf8_general_ci
+MEMORY,NULL,0,10,NULL,Fixed,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,NULL,0,information_schema,INNODB_TRX,def,<blank>,NULL,4536,max_rows=3698,16746912,utf8_general_ci
+MEMORY,NULL,0,10,NULL,Fixed,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,NULL,0,information_schema,INNODB_SYS_DATAFILES,def,<blank>,NULL,12007,max_rows=1397,16773779,utf8_general_ci
+MEMORY,NULL,0,10,NULL,Fixed,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,NULL,0,information_schema,INNODB_LOCK_WAITS,def,<blank>,NULL,599,max_rows=28008,16749238,utf8_general_ci
+MEMORY,NULL,0,10,NULL,Fixed,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,NULL,0,information_schema,INNODB_SYS_TABLESTATS,def,<blank>,NULL,1215,max_rows=13808,16763355,utf8_general_ci
+MEMORY,NULL,0,10,NULL,Fixed,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,NULL,0,information_schema,INNODB_CMP,def,<blank>,NULL,25,max_rows=671088,13107200,utf8_general_ci
+MEMORY,NULL,0,10,NULL,Fixed,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,NULL,0,information_schema,INNODB_METRICS,def,<blank>,NULL,2994,max_rows=5603,16742448,utf8_general_ci
+MEMORY,NULL,0,10,NULL,Fixed,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,NULL,0,information_schema,INNODB_CMP_RESET,def,<blank>,NULL,25,max_rows=671088,13107200,utf8_general_ci
+MEMORY,NULL,0,10,NULL,Fixed,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,NULL,0,information_schema,INNODB_CMP_PER_INDEX,def,<blank>,NULL,1755,max_rows=9559,16728660,utf8_general_ci
+MEMORY,NULL,0,10,NULL,Fixed,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,NULL,0,information_schema,INNODB_CMPMEM_RESET,def,<blank>,NULL,29,max_rows=578524,15204352,utf8_general_ci
+MEMORY,NULL,0,10,NULL,Fixed,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,NULL,0,information_schema,INNODB_FT_DELETED,def,<blank>,NULL,9,max_rows=1864135,9437184,utf8_general_ci
+MEMORY,NULL,0,10,NULL,Fixed,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,NULL,0,information_schema,INNODB_BUFFER_PAGE_LRU,def,<blank>,NULL,6669,max_rows=2515,16765866,utf8_general_ci
+MEMORY,NULL,0,10,NULL,Fixed,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,NULL,0,information_schema,INNODB_SYS_FOREIGN,def,<blank>,NULL,1752,max_rows=9576,16700064,utf8_general_ci
+MEMORY,NULL,0,10,NULL,Fixed,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,NULL,0,information_schema,INNODB_SYS_COLUMNS,def,<blank>,NULL,610,max_rows=27503,16613350,utf8_general_ci
+MEMORY,NULL,0,10,NULL,Fixed,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,NULL,0,information_schema,INNODB_SYS_INDEXES,def,<blank>,NULL,614,max_rows=27324,16722290,utf8_general_ci
+MEMORY,NULL,0,10,NULL,Fixed,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,NULL,0,information_schema,INNODB_FT_DEFAULT_STOPWORD,def,<blank>,NULL,56,max_rows=299593,14680064,utf8_general_ci
+MEMORY,NULL,0,10,NULL,Fixed,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,NULL,0,information_schema,INNODB_SYS_FIELDS,def,<blank>,NULL,594,max_rows=28244,16609428,utf8_general_ci
+MEMORY,NULL,0,10,NULL,Fixed,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,NULL,0,information_schema,INNODB_CMP_PER_INDEX_RESET,def,<blank>,NULL,1755,max_rows=9559,16728660,utf8_general_ci
+MEMORY,NULL,0,10,NULL,Fixed,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,NULL,0,information_schema,INNODB_BUFFER_PAGE,def,<blank>,NULL,6852,max_rows=2448,16766844,utf8_general_ci
+MEMORY,NULL,0,10,NULL,Fixed,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,NULL,0,information_schema,INNODB_CMPMEM,def,<blank>,NULL,29,max_rows=578524,15204352,utf8_general_ci
+MEMORY,NULL,0,10,NULL,Fixed,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,NULL,0,information_schema,INNODB_FT_INDEX_TABLE,def,<blank>,NULL,1054,max_rows=15917,16744898,utf8_general_ci
+MEMORY,NULL,0,10,NULL,Fixed,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,NULL,0,information_schema,INNODB_FT_BEING_DELETED,def,<blank>,NULL,9,max_rows=1864135,9437184,utf8_general_ci
+MEMORY,NULL,0,10,NULL,Fixed,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,NULL,0,information_schema,INNODB_SYS_TABLESPACES,def,<blank>,NULL,2082,max_rows=8058,16728870,utf8_general_ci
+MEMORY,NULL,0,10,NULL,Fixed,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,NULL,0,information_schema,INNODB_FT_INDEX_CACHE,def,<blank>,NULL,1054,max_rows=15917,16744898,utf8_general_ci
+MEMORY,NULL,0,10,NULL,Fixed,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,NULL,0,information_schema,INNODB_SYS_FOREIGN_COLS,def,<blank>,NULL,1748,max_rows=9597,16738848,utf8_general_ci
+MEMORY,NULL,0,10,NULL,Fixed,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,NULL,0,information_schema,INNODB_SYS_TABLES,def,<blank>,NULL,2060,max_rows=8144,16743680,utf8_general_ci
+MEMORY,NULL,0,10,NULL,Fixed,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,NULL,0,information_schema,INNODB_BUFFER_POOL_STATS,def,<blank>,NULL,257,max_rows=65280,16332350,utf8_general_ci
+MEMORY,NULL,0,10,NULL,Fixed,NULL,SYSTEM VIEW,2020-09-14 17:25:53,0,NULL,0,information_schema,INNODB_FT_CONFIG,def,<blank>,NULL,1163,max_rows=14425,16705332,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:53:00,16384,NULL,32768,paintmag_production,accesslog,def,Stores site access information for statistics.,1,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,20,BASE TABLE,2018-07-24 08:53:00,16384,NULL,0,paintmag_production,actions,def,Stores action information.,NULL,819,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,3,BASE TABLE,2018-07-24 08:53:00,16384,NULL,0,paintmag_production,admin_paint_contest,def,<blank>,5,5461,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,3,BASE TABLE,2018-07-24 08:53:00,16384,NULL,0,paintmag_production,admin_paint_contest_image,def,<blank>,15,5461,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:53:00,16384,NULL,16384,paintmag_production,authmap,def,Stores distributed authentication mapping.,1,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,1,BASE TABLE,2018-07-24 08:53:01,16384,NULL,16384,paintmag_production,batch,def,Stores details about batches (processes that run in...,NULL,16384,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,201,BASE TABLE,2018-07-24 08:53:01,16384,NULL,32768,paintmag_production,block,def,"Stores block settings, such as region and visibility...",217,81,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,29,BASE TABLE,2018-07-24 08:53:01,98304,NULL,16384,paintmag_production,block_custom,def,Stores contents of custom-made blocks.,34,3389,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,3,BASE TABLE,2018-07-24 08:53:01,16384,NULL,16384,paintmag_production,block_node_type,def,Sets up display criteria for blocks based on content types,NULL,5461,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:53:01,16384,NULL,16384,paintmag_production,block_role,def,Sets up access permissions for blocks based on user roles,NULL,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:53:01,16384,NULL,16384,paintmag_production,blocked_ips,def,Stores blocked IP addresses.,1,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,4194304,10,NULL,Compact,17,BASE TABLE,2018-07-24 08:53:01,1572864,NULL,16384,paintmag_production,cache,def,Generic cache table for caching things not separated out...,NULL,92521,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:53:01,16384,NULL,16384,paintmag_production,cache_block,def,Cache table for the Block module to store already built...,NULL,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,6,BASE TABLE,2018-07-24 08:53:01,278528,NULL,16384,paintmag_production,cache_bootstrap,def,"Cache table for data required to bootstrap Drupal, may be...",NULL,46421,<blank>,0,utf8_general_ci
+InnoDB,NULL,4194304,10,NULL,Compact,2384,BASE TABLE,2018-07-24 08:53:01,17317888,NULL,131072,paintmag_production,cache_field,def,Generic cache table for caching things not separated out...,NULL,7264,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,52,BASE TABLE,2018-07-24 08:53:03,65536,NULL,16384,paintmag_production,cache_filter,def,Cache table for the Filter module to store already...,NULL,1260,<blank>,0,utf8_general_ci
+InnoDB,NULL,4194304,10,NULL,Compact,4146,BASE TABLE,2018-07-24 08:53:03,1076445184,NULL,1589248,paintmag_production,cache_form,def,Cache table for the form system to store recently built...,NULL,259634,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:53:36,16384,NULL,16384,paintmag_production,cache_image,def,Cache table used to store information about image...,NULL,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:53:36,16384,NULL,16384,paintmag_production,cache_libraries,def,Cache table to store library information.,NULL,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:53:36,16384,NULL,16384,paintmag_production,cache_media_xml,def,Cache table for the the results of retreived XML...,NULL,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,6291456,10,NULL,Compact,1392,BASE TABLE,2018-07-24 08:53:36,3686400,NULL,147456,paintmag_production,cache_menu,def,Cache table for the menu system to store router...,NULL,2648,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:53:36,16384,NULL,16384,paintmag_production,cache_page,def,Cache table used to store compressed pages for anonymous...,NULL,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,4194304,10,NULL,Compact,2715,BASE TABLE,2018-07-24 08:53:36,8929280,NULL,114688,paintmag_production,cache_path,def,Cache table for path alias lookup.,NULL,3288,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,2,BASE TABLE,2018-07-24 08:53:37,65536,NULL,16384,paintmag_production,cache_token,def,Cache table for token information.,NULL,32768,<blank>,0,utf8_general_ci
+InnoDB,NULL,5242880,10,NULL,Compact,41,BASE TABLE,2018-07-24 08:53:37,49152,NULL,16384,paintmag_production,cache_update,def,Cache table for the Update module to store information...,NULL,1198,<blank>,0,utf8_general_ci
+InnoDB,NULL,4194304,10,NULL,Compact,37,BASE TABLE,2018-07-24 08:53:37,1589248,NULL,16384,paintmag_production,cache_views,def,Generic cache table for caching things not separated out...,NULL,42952,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:53:37,16384,NULL,16384,paintmag_production,cache_views_data,def,"Cache table for views to store pre-rendered queries,...",NULL,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,2,BASE TABLE,2018-07-24 08:53:37,16384,NULL,0,paintmag_production,ckeditor_input_format,def,Stores CKEditor input format assignments,NULL,8192,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,3,BASE TABLE,2018-07-24 08:53:37,16384,NULL,0,paintmag_production,ckeditor_settings,def,Stores CKEditor profile settings,NULL,5461,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:53:37,16384,NULL,81920,paintmag_production,comment,def,Stores comments and associated data.,1,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:53:37,16384,NULL,0,paintmag_production,ctools_css_cache,def,A special cache used to store CSS that must be non-volatile.,NULL,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:53:37,16384,NULL,16384,paintmag_production,ctools_object_cache,def,A special cache used to store objects that are being...,NULL,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:53:37,16384,NULL,0,paintmag_production,custom_buyers_guide_form,def,<blank>,12,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,17,BASE TABLE,2019-04-24 06:24:49,16384,NULL,0,paintmag_production,custom_contractor_video_contest,def,<blank>,33,963,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,88,BASE TABLE,2019-02-25 11:27:47,81920,NULL,0,paintmag_production,custom_cron_rss_feed,def,<blank>,NULL,930,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,4194304,10,NULL,Compact,3171,BASE TABLE,2018-10-01 09:43:22,21544960,NULL,0,paintmag_production,custom_entry_multipub,def,<blank>,5298,6794,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,2,BASE TABLE,2018-07-24 08:53:37,16384,NULL,0,paintmag_production,custom_job_weekcontest,def,<blank>,27,8192,<blank>,0,utf8_general_ci
+InnoDB,NULL,4194304,10,NULL,Compact,4283,BASE TABLE,2020-06-02 08:48:42,2637824,NULL,0,paintmag_production,custom_magazine_subscriber,def,<blank>,5282,615,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,1,BASE TABLE,2018-10-01 06:25:03,16384,NULL,0,paintmag_production,custom_magazine_subscriber_emailmessage,def,<blank>,2,16384,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,267,BASE TABLE,2019-07-03 08:50:20,163840,NULL,0,paintmag_production,custom_newsletter,def,<blank>,354,613,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,9,BASE TABLE,2018-07-24 08:53:38,16384,NULL,0,paintmag_production,custom_newsletter_copy,def,<blank>,14,1820,<blank>,0,utf8_general_ci
+InnoDB,NULL,4194304,10,NULL,Compact,2502,BASE TABLE,2019-04-22 05:35:32,1589248,NULL,0,paintmag_production,custom_newsletter_details,def,<blank>,3519,635,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,83,BASE TABLE,2018-07-24 08:53:39,65536,NULL,0,paintmag_production,custom_newsletter_details_copy,def,<blank>,124,789,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,27,BASE TABLE,2018-07-24 08:53:40,16384,NULL,0,paintmag_production,custom_survey_dispose,def,<blank>,54,606,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,20,BASE TABLE,2018-11-13 06:31:07,16384,NULL,0,paintmag_production,custom_survey_evaluation_report,def,<blank>,71,819,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,44,BASE TABLE,2018-11-13 06:30:11,65536,NULL,0,paintmag_production,custom_survey_evaluation_report_bk_13NOv18,def,<blank>,71,1489,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,236,BASE TABLE,2018-07-24 08:53:40,65536,NULL,0,paintmag_production,custom_survey_form,def,<blank>,237,277,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,29,BASE TABLE,2018-07-24 08:53:40,16384,NULL,0,paintmag_production,custom_survey_paintwood,def,<blank>,32,564,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,54,BASE TABLE,2018-07-24 08:53:40,16384,NULL,0,paintmag_production,custom_survey_pressure_washer,def,<blank>,95,303,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,12,BASE TABLE,2018-07-24 08:53:40,16384,NULL,0,paintmag_production,custom_survey_proclub,def,<blank>,14,1365,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,625,BASE TABLE,2020-07-10 05:21:42,278528,NULL,0,paintmag_production,custom_survey_proclub_10July2020,def,<blank>,629,445,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,26,BASE TABLE,2018-10-22 05:33:55,16384,NULL,0,paintmag_production,custom_survey_shurtech_tap_survey,def,<blank>,171,630,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,8,BASE TABLE,2018-07-24 08:53:40,16384,NULL,0,paintmag_production,custom_survey_wantpaintnews,def,<blank>,18,2048,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:53:40,16384,NULL,0,paintmag_production,date_format_locale,def,Stores configured date formats for each locale.,NULL,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,4,BASE TABLE,2018-07-24 08:53:40,16384,NULL,16384,paintmag_production,date_format_type,def,Stores configured date format types.,NULL,4096,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,35,BASE TABLE,2018-07-24 08:53:40,16384,NULL,16384,paintmag_production,date_formats,def,Stores configured date formats.,36,468,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,13,BASE TABLE,2018-07-24 08:53:40,16384,NULL,0,paintmag_production,elysia_cron,def,<blank>,NULL,1260,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,57,BASE TABLE,2018-07-24 08:53:40,98304,NULL,131072,paintmag_production,field_config,def,<blank>,88,1724,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,73,BASE TABLE,2018-07-24 08:53:41,81920,NULL,32768,paintmag_production,field_config_instance,def,<blank>,110,1122,<blank>,0,utf8_general_ci
+InnoDB,NULL,4194304,10,NULL,Compact,724,BASE TABLE,2018-07-24 08:53:41,7880704,NULL,458752,paintmag_production,field_data_body,def,Data storage for field 2 (body),NULL,10884,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:53:42,16384,NULL,114688,paintmag_production,field_data_comment_body,def,Data storage for field 1 (comment_body),NULL,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,58,BASE TABLE,2018-07-24 08:53:42,16384,NULL,114688,paintmag_production,field_data_field_archive_image,def,Data storage for field 41 (field_archive_image),NULL,282,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,58,BASE TABLE,2018-07-24 08:53:42,16384,NULL,98304,paintmag_production,field_data_field_archive_issue_date,def,Data storage for field 40 (field_archive_issue_date),NULL,282,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,58,BASE TABLE,2018-07-24 08:53:42,16384,NULL,114688,paintmag_production,field_data_field_archive_link,def,Data storage for field 42 (field_archive_link),NULL,282,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:53:42,16384,NULL,114688,paintmag_production,field_data_field_article_category_,def,Data storage for field 20 (field_article_category_),NULL,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,793,BASE TABLE,2018-07-24 08:53:42,81920,NULL,376832,paintmag_production,field_data_field_article_issue_name,def,Data storage for field 59 (field_article_issue_name),NULL,103,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:53:43,16384,NULL,114688,paintmag_production,field_data_field_bottom_advertisement,def,Data storage for field 16 (field_bottom_advertisement),NULL,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:53:43,16384,NULL,114688,paintmag_production,field_data_field_bottom_advertisement_artic,def,Data storage for field 54 (field_bottom_advertisement_artic),NULL,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,27,BASE TABLE,2018-07-24 08:53:43,16384,NULL,114688,paintmag_production,field_data_field_bottom_tag_line,def,Data storage for field 37 (field_bottom_tag_line),NULL,606,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:53:43,16384,NULL,114688,paintmag_production,field_data_field_category,def,Data storage for field 21 (field_category),NULL,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,9,BASE TABLE,2018-07-24 08:53:43,81920,NULL,114688,paintmag_production,field_data_field_description,def,Data storage for field 39 (field_description),NULL,9102,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,97,BASE TABLE,2018-07-24 08:53:43,16384,NULL,114688,paintmag_production,field_data_field_display_on_paint_tv_home,def,Data storage for field 74 (field_display_on_paint_tv_home),NULL,168,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,178,BASE TABLE,2018-07-24 08:53:43,16384,NULL,114688,paintmag_production,field_data_field_image,def,Data storage for field 4 (field_image),NULL,92,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:53:43,16384,NULL,114688,paintmag_production,field_data_field_image_caption,def,Data storage for field 70 (field_image_caption),NULL,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,68,BASE TABLE,2018-07-24 08:53:43,16384,NULL,114688,paintmag_production,field_data_field_image_url,def,Data storage for field 8 (field_image_url),NULL,240,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,152,BASE TABLE,2018-07-24 08:53:44,16384,NULL,114688,paintmag_production,field_data_field_is_featured,def,Data storage for field 49 (field_is_featured),NULL,107,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,131,BASE TABLE,2018-07-24 08:53:44,16384,NULL,114688,paintmag_production,field_data_field_is_included_in_contest,def,Data storage for field 69 (field_is_included_in_contest),NULL,125,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,960,BASE TABLE,2018-07-24 08:53:44,114688,NULL,311296,paintmag_production,field_data_field_issue_date,def,Data storage for field 13 (field_issue_date),NULL,119,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,248,BASE TABLE,2018-07-24 08:53:44,49152,NULL,98304,paintmag_production,field_data_field_issue_name_issue_date,def,Data storage for field 58 (field_issue_name_issue_date),NULL,198,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,598,BASE TABLE,2018-07-24 08:53:45,98304,NULL,212992,paintmag_production,field_data_field_keywords,def,Data storage for field 67 (field_keywords),NULL,164,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,79,BASE TABLE,2018-07-24 08:53:45,16384,NULL,114688,paintmag_production,field_data_field_large_feed_image,def,Data storage for field 76 (field_large_feed_image),NULL,207,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:53:46,16384,NULL,114688,paintmag_production,field_data_field_list_description,def,Data storage for field 25 (field_list_description),NULL,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,2,BASE TABLE,2018-09-07 06:49:29,16384,NULL,114688,paintmag_production,field_data_field_logo_dfp_code,def,Data storage for field 80 (field_logo_dfp_code),NULL,8192,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,6,BASE TABLE,2018-07-24 08:53:46,16384,NULL,114688,paintmag_production,field_data_field_news_link,def,Data storage for field 9 (field_news_link),NULL,2730,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,9,BASE TABLE,2018-07-24 08:53:46,16384,NULL,98304,paintmag_production,field_data_field_news_post_date,def,Data storage for field 38 (field_news_post_date),NULL,1820,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,4,BASE TABLE,2018-07-24 08:53:46,16384,NULL,114688,paintmag_production,field_data_field_newsletter_body,def,Data storage for field 26 (field_newsletter_body),NULL,4096,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:53:46,16384,NULL,114688,paintmag_production,field_data_field_newsletter_list,def,Data storage for field 23 (field_newsletter_list),NULL,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:53:46,16384,NULL,114688,paintmag_production,field_data_field_newsletter_template,def,Data storage for field 24 (field_newsletter_template),NULL,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,106,BASE TABLE,2018-07-24 08:53:46,16384,NULL,98304,paintmag_production,field_data_field_post_date,def,Data storage for field 34 (field_post_date),NULL,154,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:53:46,16384,NULL,114688,paintmag_production,field_data_field_pre_roll_text,def,Data storage for field 73 (field_pre_roll_text),NULL,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,3,BASE TABLE,2018-07-24 08:53:46,16384,NULL,114688,paintmag_production,field_data_field_pre_roll_video,def,Data storage for field 72 (field_pre_roll_video),NULL,5461,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,97,BASE TABLE,2018-07-24 08:53:46,16384,NULL,114688,paintmag_production,field_data_field_radio_image,def,Data storage for field 33 (field_radio_image),NULL,168,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,92,BASE TABLE,2018-07-24 08:53:46,16384,NULL,114688,paintmag_production,field_data_field_radio_url,def,Data storage for field 35 (field_radio_url),NULL,178,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,96,BASE TABLE,2019-06-24 06:04:25,16384,NULL,98304,paintmag_production,field_data_field_schedule_date,def,Data storage for field 85 (field_schedule_date),NULL,170,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:53:46,16384,NULL,114688,paintmag_production,field_data_field_sidebar_ad_first_article,def,Data storage for field 55 (field_sidebar_ad_first_article),NULL,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,2,BASE TABLE,2018-07-24 08:53:46,16384,NULL,114688,paintmag_production,field_data_field_sidebar_ad_java,def,Data storage for field 65 (field_sidebar_ad_java),NULL,8192,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,2,BASE TABLE,2018-07-24 08:53:46,16384,NULL,114688,paintmag_production,field_data_field_sidebar_advertisement_firs,def,Data storage for field 17 (field_sidebar_advertisement_firs),NULL,8192,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:53:46,16384,NULL,114688,paintmag_production,field_data_field_sidebar_advertisement_java,def,Data storage for field 61 (field_sidebar_advertisement_java),NULL,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,14,BASE TABLE,2018-11-02 12:18:38,16384,NULL,98304,paintmag_production,field_data_field_slide_sequence_order_no,def,Data storage for field 82 (field_slide_sequence_order_no),NULL,1170,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,9,BASE TABLE,2018-07-24 08:53:46,16384,NULL,114688,paintmag_production,field_data_field_slide_show_album,def,Data storage for field 79 (field_slide_show_album),NULL,1820,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,48,BASE TABLE,2018-07-24 08:53:46,16384,NULL,114688,paintmag_production,field_data_field_slide_show_category,def,Data storage for field 78 (field_slide_show_category),NULL,341,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,45,BASE TABLE,2018-07-24 08:53:46,16384,NULL,114688,paintmag_production,field_data_field_slide_show_image,def,Data storage for field 77 (field_slide_show_image),NULL,364,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,60,BASE TABLE,2018-07-24 08:53:46,16384,NULL,114688,paintmag_production,field_data_field_slider_category,def,Data storage for field 7 (field_slider_category),NULL,273,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,68,BASE TABLE,2018-07-24 08:53:47,16384,NULL,114688,paintmag_production,field_data_field_slider_image,def,Data storage for field 6 (field_slider_image),NULL,240,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,605,BASE TABLE,2018-07-24 08:53:47,65536,NULL,212992,paintmag_production,field_data_field_special_category,def,Data storage for field 14 (field_special_category),NULL,108,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,29,BASE TABLE,2019-04-18 07:50:29,16384,NULL,114688,paintmag_production,field_data_field_sponsored_by_image,def,Data storage for field 83 (field_sponsored_by_image),NULL,564,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,29,BASE TABLE,2019-04-18 07:54:26,16384,NULL,114688,paintmag_production,field_data_field_sponsored_by_url,def,Data storage for field 84 (field_sponsored_by_url),NULL,564,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,99,BASE TABLE,2018-07-24 08:53:47,16384,NULL,114688,paintmag_production,field_data_field_tag_line,def,Data storage for field 36 (field_tag_line),NULL,165,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,821,BASE TABLE,2018-07-24 08:53:47,81920,NULL,376832,paintmag_production,field_data_field_term_category,def,Data storage for field 44 (field_term_category),NULL,99,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,2,BASE TABLE,2018-07-24 08:53:48,16384,NULL,114688,paintmag_production,field_data_field_top_advertisement,def,Data storage for field 15 (field_top_advertisement),NULL,8192,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:53:48,16384,NULL,114688,paintmag_production,field_data_field_top_advertisement_article,def,Data storage for field 53 (field_top_advertisement_article),NULL,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,135,BASE TABLE,2018-07-24 08:53:48,16384,NULL,114688,paintmag_production,field_data_field_upload_video,def,Data storage for field 68 (field_upload_video),NULL,121,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,5,BASE TABLE,2018-07-24 08:53:48,16384,NULL,114688,paintmag_production,field_data_field_video,def,Data storage for field 27 (field_video),NULL,3276,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,4,BASE TABLE,2019-07-15 10:14:13,16384,NULL,114688,paintmag_production,field_data_field_video_description,def,Data storage for field 87 (field_video_description),NULL,4096,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,152,BASE TABLE,2019-07-01 05:16:53,16384,NULL,114688,paintmag_production,field_data_field_video_status,def,Data storage for field 86 (field_video_status),NULL,107,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,4,BASE TABLE,2018-07-24 08:53:48,16384,NULL,114688,paintmag_production,field_data_field_video_thumbnail,def,Data storage for field 52 (field_video_thumbnail),NULL,4096,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,88,BASE TABLE,2018-07-24 08:53:48,16384,NULL,114688,paintmag_production,field_data_field_video_tracking,def,Data storage for field 75 (field_video_tracking),NULL,186,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,6,BASE TABLE,2018-07-24 08:53:48,16384,NULL,114688,paintmag_production,field_data_field_video_url,def,Data storage for field 51 (field_video_url),NULL,2730,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,15,BASE TABLE,2018-07-24 08:53:48,16384,NULL,114688,paintmag_production,field_data_field_winner_category,def,Data storage for field 66 (field_winner_category),NULL,1092,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,69,BASE TABLE,2018-07-24 08:53:48,16384,NULL,98304,paintmag_production,field_data_field_winner_date,def,Data storage for field 48 (field_winner_date),NULL,237,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,69,BASE TABLE,2018-07-24 08:53:48,327680,NULL,114688,paintmag_production,field_data_field_winner_description,def,Data storage for field 46 (field_winner_description),NULL,4748,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,65,BASE TABLE,2018-07-24 08:53:49,16384,NULL,114688,paintmag_production,field_data_field_winner_image,def,Data storage for field 47 (field_winner_image),NULL,252,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,33,BASE TABLE,2018-07-24 08:53:49,16384,NULL,114688,paintmag_production,field_data_field_winner_main_image,def,Data storage for field 71 (field_winner_main_image),NULL,496,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,1,BASE TABLE,2018-11-02 12:18:49,16384,NULL,114688,paintmag_production,field_deleted_data_81,def,Data storage for field 81 (field_slide_sequence_order),NULL,16384,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,1,BASE TABLE,2018-11-02 12:18:49,16384,NULL,114688,paintmag_production,field_deleted_revision_81,def,Revision archive storage for field 81 (field_slide...,NULL,16384,<blank>,0,utf8_general_ci
+InnoDB,NULL,4194304,10,NULL,Compact,612,BASE TABLE,2018-07-24 08:53:49,7880704,NULL,491520,paintmag_production,field_revision_body,def,Revision archive storage for field 2 (body),NULL,12876,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:53:50,16384,NULL,114688,paintmag_production,field_revision_comment_body,def,Revision archive storage for field 1 (comment_body),NULL,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,58,BASE TABLE,2018-07-24 08:53:50,16384,NULL,114688,paintmag_production,field_revision_field_archive_image,def,Revision archive storage for field 41 (field_archive_image),NULL,282,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,58,BASE TABLE,2018-07-24 08:53:50,16384,NULL,98304,paintmag_production,field_revision_field_archive_issue_date,def,Revision archive storage for field 40 (field_archive...,NULL,282,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,58,BASE TABLE,2018-07-24 08:53:50,16384,NULL,114688,paintmag_production,field_revision_field_archive_link,def,Revision archive storage for field 42 (field_archive_link),NULL,282,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:53:50,16384,NULL,114688,paintmag_production,field_revision_field_article_category_,def,Revision archive storage for field 20 (field_article...,NULL,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,793,BASE TABLE,2018-07-24 08:53:50,81920,NULL,360448,paintmag_production,field_revision_field_article_issue_name,def,Revision archive storage for field 59 (field_article...,NULL,103,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:53:51,16384,NULL,114688,paintmag_production,field_revision_field_bottom_advertisement,def,Revision archive storage for field 16 (field_bottom...,NULL,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:53:51,16384,NULL,114688,paintmag_production,field_revision_field_bottom_advertisement_artic,def,Revision archive storage for field 54 (field_bottom...,NULL,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,27,BASE TABLE,2018-07-24 08:53:51,16384,NULL,114688,paintmag_production,field_revision_field_bottom_tag_line,def,Revision archive storage for field 37 (field_bottom_tag...,NULL,606,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:53:51,16384,NULL,114688,paintmag_production,field_revision_field_category,def,Revision archive storage for field 21 (field_category),NULL,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,9,BASE TABLE,2018-07-24 08:53:51,81920,NULL,114688,paintmag_production,field_revision_field_description,def,Revision archive storage for field 39 (field_description),NULL,9102,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,98,BASE TABLE,2018-07-24 08:53:51,16384,NULL,114688,paintmag_production,field_revision_field_display_on_paint_tv_home,def,Revision archive storage for field 74 (field_display_on...,NULL,167,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,178,BASE TABLE,2018-07-24 08:53:51,16384,NULL,114688,paintmag_production,field_revision_field_image,def,Revision archive storage for field 4 (field_image),NULL,92,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:53:51,16384,NULL,114688,paintmag_production,field_revision_field_image_caption,def,Revision archive storage for field 70 (field_image_caption),NULL,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,68,BASE TABLE,2018-07-24 08:53:52,16384,NULL,114688,paintmag_production,field_revision_field_image_url,def,Revision archive storage for field 8 (field_image_url),NULL,240,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,152,BASE TABLE,2018-07-24 08:53:52,16384,NULL,114688,paintmag_production,field_revision_field_is_featured,def,Revision archive storage for field 49 (field_is_featured),NULL,107,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,131,BASE TABLE,2018-07-24 08:53:52,16384,NULL,114688,paintmag_production,field_revision_field_is_included_in_contest,def,Revision archive storage for field 69 (field_is_included...,NULL,125,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,851,BASE TABLE,2018-07-24 08:53:52,98304,NULL,393216,paintmag_production,field_revision_field_issue_date,def,Revision archive storage for field 13 (field_issue_date),NULL,115,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,248,BASE TABLE,2018-07-24 08:53:53,49152,NULL,98304,paintmag_production,field_revision_field_issue_name_issue_date,def,Revision archive storage for field 58 (field_issue_name...,NULL,198,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,593,BASE TABLE,2018-07-24 08:53:53,98304,NULL,344064,paintmag_production,field_revision_field_keywords,def,Revision archive storage for field 67 (field_keywords),NULL,165,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,79,BASE TABLE,2018-07-24 08:53:53,16384,NULL,114688,paintmag_production,field_revision_field_large_feed_image,def,Revision archive storage for field 76 (field_large_feed...,NULL,207,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:53:53,16384,NULL,114688,paintmag_production,field_revision_field_list_description,def,Revision archive storage for field 25 (field_list...,NULL,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,2,BASE TABLE,2018-09-07 06:49:29,16384,NULL,114688,paintmag_production,field_revision_field_logo_dfp_code,def,Revision archive storage for field 80 (field_logo_dfp_code),NULL,8192,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,6,BASE TABLE,2018-07-24 08:53:53,16384,NULL,114688,paintmag_production,field_revision_field_news_link,def,Revision archive storage for field 9 (field_news_link),NULL,2730,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,9,BASE TABLE,2018-07-24 08:53:53,16384,NULL,98304,paintmag_production,field_revision_field_news_post_date,def,Revision archive storage for field 38 (field_news_post_date),NULL,1820,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,4,BASE TABLE,2018-07-24 08:53:53,16384,NULL,114688,paintmag_production,field_revision_field_newsletter_body,def,Revision archive storage for field 26 (field_newsletter...,NULL,4096,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:53:54,16384,NULL,114688,paintmag_production,field_revision_field_newsletter_list,def,Revision archive storage for field 23 (field_newsletter...,NULL,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:53:54,16384,NULL,114688,paintmag_production,field_revision_field_newsletter_template,def,Revision archive storage for field 24 (field_newsletter...,NULL,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,98,BASE TABLE,2018-07-24 08:53:54,16384,NULL,98304,paintmag_production,field_revision_field_post_date,def,Revision archive storage for field 34 (field_post_date),NULL,167,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:53:54,16384,NULL,114688,paintmag_production,field_revision_field_pre_roll_text,def,Revision archive storage for field 73 (field_pre_roll_text),NULL,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,3,BASE TABLE,2018-07-24 08:53:54,16384,NULL,114688,paintmag_production,field_revision_field_pre_roll_video,def,Revision archive storage for field 72 (field_pre_roll_video),NULL,5461,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,97,BASE TABLE,2018-07-24 08:53:54,16384,NULL,114688,paintmag_production,field_revision_field_radio_image,def,Revision archive storage for field 33 (field_radio_image),NULL,168,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,92,BASE TABLE,2018-07-24 08:53:54,16384,NULL,114688,paintmag_production,field_revision_field_radio_url,def,Revision archive storage for field 35 (field_radio_url),NULL,178,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,96,BASE TABLE,2019-06-24 06:04:25,16384,NULL,98304,paintmag_production,field_revision_field_schedule_date,def,Revision archive storage for field 85 (field_schedule_date),NULL,170,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:53:54,16384,NULL,114688,paintmag_production,field_revision_field_sidebar_ad_first_article,def,Revision archive storage for field 55 (field_sidebar_ad...,NULL,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,2,BASE TABLE,2018-07-24 08:53:54,16384,NULL,114688,paintmag_production,field_revision_field_sidebar_ad_java,def,Revision archive storage for field 65 (field_sidebar_ad...,NULL,8192,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,3,BASE TABLE,2018-07-24 08:53:54,16384,NULL,114688,paintmag_production,field_revision_field_sidebar_advertisement_firs,def,Revision archive storage for field 17 (field_sidebar...,NULL,5461,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:53:54,16384,NULL,114688,paintmag_production,field_revision_field_sidebar_advertisement_java,def,Revision archive storage for field 61 (field_sidebar...,NULL,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,14,BASE TABLE,2018-11-02 12:18:38,16384,NULL,98304,paintmag_production,field_revision_field_slide_sequence_order_no,def,Revision archive storage for field 82 (field_slide...,NULL,1170,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,9,BASE TABLE,2018-07-24 08:53:54,16384,NULL,114688,paintmag_production,field_revision_field_slide_show_album,def,Revision archive storage for field 79 (field_slide_show...,NULL,1820,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,48,BASE TABLE,2018-07-24 08:53:54,16384,NULL,114688,paintmag_production,field_revision_field_slide_show_category,def,Revision archive storage for field 78 (field_slide_show...,NULL,341,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,45,BASE TABLE,2018-07-24 08:53:54,16384,NULL,114688,paintmag_production,field_revision_field_slide_show_image,def,Revision archive storage for field 77 (field_slide_show...,NULL,364,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,60,BASE TABLE,2018-07-24 08:53:54,16384,NULL,114688,paintmag_production,field_revision_field_slider_category,def,Revision archive storage for field 7 (field_slider_category),NULL,273,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,68,BASE TABLE,2018-07-24 08:53:54,16384,NULL,114688,paintmag_production,field_revision_field_slider_image,def,Revision archive storage for field 6 (field_slider_image),NULL,240,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,605,BASE TABLE,2018-07-24 08:53:54,65536,NULL,344064,paintmag_production,field_revision_field_special_category,def,Revision archive storage for field 14 (field_special...,NULL,108,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,28,BASE TABLE,2019-04-18 07:50:29,16384,NULL,114688,paintmag_production,field_revision_field_sponsored_by_image,def,Revision archive storage for field 83 (field_sponsored_by...,NULL,585,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,28,BASE TABLE,2019-04-18 07:54:26,16384,NULL,114688,paintmag_production,field_revision_field_sponsored_by_url,def,Revision archive storage for field 84 (field_sponsored_by...,NULL,585,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,99,BASE TABLE,2018-07-24 08:53:56,16384,NULL,114688,paintmag_production,field_revision_field_tag_line,def,Revision archive storage for field 36 (field_tag_line),NULL,165,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,817,BASE TABLE,2018-07-24 08:53:56,81920,NULL,458752,paintmag_production,field_revision_field_term_category,def,Revision archive storage for field 44 (field_term_category),NULL,100,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,3,BASE TABLE,2018-07-24 08:53:57,16384,NULL,114688,paintmag_production,field_revision_field_top_advertisement,def,Revision archive storage for field 15 (field_top...,NULL,5461,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:53:57,16384,NULL,114688,paintmag_production,field_revision_field_top_advertisement_article,def,Revision archive storage for field 53 (field_top...,NULL,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,136,BASE TABLE,2018-07-24 08:53:57,16384,NULL,114688,paintmag_production,field_revision_field_upload_video,def,Revision archive storage for field 68 (field_upload_video),NULL,120,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,6,BASE TABLE,2018-07-24 08:53:57,16384,NULL,114688,paintmag_production,field_revision_field_video,def,Revision archive storage for field 27 (field_video),NULL,2730,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,4,BASE TABLE,2019-07-15 10:14:13,16384,NULL,114688,paintmag_production,field_revision_field_video_description,def,Revision archive storage for field 87 (field_video...,NULL,4096,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,152,BASE TABLE,2019-07-01 05:16:53,16384,NULL,114688,paintmag_production,field_revision_field_video_status,def,Revision archive storage for field 86 (field_video_status),NULL,107,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,4,BASE TABLE,2018-07-24 08:53:57,16384,NULL,114688,paintmag_production,field_revision_field_video_thumbnail,def,Revision archive storage for field 52 (field_video...,NULL,4096,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,88,BASE TABLE,2018-07-24 08:53:57,16384,NULL,114688,paintmag_production,field_revision_field_video_tracking,def,Revision archive storage for field 75 (field_video_tracking),NULL,186,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,6,BASE TABLE,2018-07-24 08:53:57,16384,NULL,114688,paintmag_production,field_revision_field_video_url,def,Revision archive storage for field 51 (field_video_url),NULL,2730,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,15,BASE TABLE,2018-07-24 08:53:57,16384,NULL,114688,paintmag_production,field_revision_field_winner_category,def,Revision archive storage for field 66 (field_winner...,NULL,1092,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,69,BASE TABLE,2018-07-24 08:53:58,16384,NULL,98304,paintmag_production,field_revision_field_winner_date,def,Revision archive storage for field 48 (field_winner_date),NULL,237,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,69,BASE TABLE,2018-07-24 08:53:58,327680,NULL,114688,paintmag_production,field_revision_field_winner_description,def,Revision archive storage for field 46 (field_winner...,NULL,4748,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,65,BASE TABLE,2018-07-24 08:53:58,16384,NULL,114688,paintmag_production,field_revision_field_winner_image,def,Revision archive storage for field 47 (field_winner_image),NULL,252,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,33,BASE TABLE,2018-07-24 08:53:58,16384,NULL,114688,paintmag_production,field_revision_field_winner_main_image,def,Revision archive storage for field 71 (field_winner_main...,NULL,496,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,22,BASE TABLE,2018-07-24 08:53:58,16384,NULL,0,paintmag_production,file_display,def,Stores configuration options for file displays.,NULL,744,<blank>,0,utf8_general_ci
+InnoDB,NULL,4194304,10,NULL,Compact,2968,BASE TABLE,2018-07-24 08:53:58,409600,NULL,573440,paintmag_production,file_managed,def,Stores information for uploaded files.,6155,138,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,930,BASE TABLE,2018-07-24 08:54:01,81920,NULL,163840,paintmag_production,file_usage,def,Track where a file is used.,NULL,88,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,66,BASE TABLE,2018-07-24 08:54:01,16384,NULL,16384,paintmag_production,filter,def,Table that maps filters (HTML corrector) to text formats ...,NULL,248,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,5,BASE TABLE,2018-07-24 08:54:02,16384,NULL,32768,paintmag_production,filter_format,def,"Stores text formats: custom groupings of filters, such as...",NULL,3276,<blank>,0,utf8_general_ci
+InnoDB,NULL,4194304,10,NULL,Compact,6192,BASE TABLE,2018-07-24 08:54:02,491520,NULL,540672,paintmag_production,flood,def,"Flood controls the threshold of events, such as the...",7634,79,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,893,BASE TABLE,2018-07-24 08:54:12,65536,NULL,16384,paintmag_production,history,def,A record of which users have read which nodes.,NULL,73,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,2800,BASE TABLE,2018-07-24 08:54:12,131072,NULL,0,paintmag_production,image_dimensions,def,Cache images dimensions.,6155,46,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,5,BASE TABLE,2018-07-24 08:54:14,16384,NULL,32768,paintmag_production,image_effects,def,Stores configuration options for image effects.,7,3276,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,5,BASE TABLE,2018-07-24 08:54:14,16384,NULL,16384,paintmag_production,image_styles,def,Stores configuration options for image styles.,6,3276,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,626,BASE TABLE,2018-07-24 08:54:14,49152,NULL,16384,paintmag_production,media_filter_usage,def,Stores fids that have been included in the media tag in...,NULL,78,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:54:15,16384,NULL,0,paintmag_production,media_list_type,def,Stores the user preference for whether to list as table...,NULL,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,4,BASE TABLE,2018-07-24 08:54:15,16384,NULL,0,paintmag_production,media_type,def,Stores the settings for media types.,NULL,4096,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,6,BASE TABLE,2018-07-24 08:54:15,16384,NULL,0,paintmag_production,menu_custom,def,Holds definitions for top-level custom menus (for example...,NULL,2730,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,483,BASE TABLE,2018-07-24 08:54:15,147456,NULL,163840,paintmag_production,menu_links,def,Contains the individual links within a menu.,779,305,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,528,BASE TABLE,2018-07-24 08:54:15,262144,NULL,212992,paintmag_production,menu_router,def,"Maps paths to various callbacks (access, page and title)",NULL,496,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:54:16,16384,NULL,32768,paintmag_production,newsletter_list,def,Contains the newsletter subscriber lists with their...,2,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,2,BASE TABLE,2018-07-24 08:54:16,16384,NULL,32768,paintmag_production,newsletter_newsletter,def,Contains the newsletters that are sent with their...,3,8192,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:54:16,16384,NULL,49152,paintmag_production,newsletter_subscriber,def,Contains the subscriber emails with their list relations.,1,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,4,BASE TABLE,2018-07-24 08:54:16,16384,NULL,32768,paintmag_production,newsletter_template,def,Contains the newsletter templates.,5,4096,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,1189,BASE TABLE,2018-07-24 08:54:16,196608,NULL,458752,paintmag_production,node,def,The base table for nodes.,1724,165,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:54:17,16384,NULL,0,paintmag_production,node_access,def,Identifies which realm/grant pairs a user must possess in...,NULL,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,1189,BASE TABLE,2018-07-24 08:54:17,81920,NULL,49152,paintmag_production,node_comment_statistics,def,Maintains statistics of node and comments posts to show ...,NULL,68,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,1129,BASE TABLE,2018-07-24 08:54:18,81920,NULL,0,paintmag_production,node_counter,def,Access statistics for nodes.,NULL,72,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,1189,BASE TABLE,2018-07-24 08:54:18,163840,NULL,32768,paintmag_production,node_revision,def,Stores information about each saved version of a node.,1724,137,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,9,BASE TABLE,2018-07-24 08:54:19,16384,NULL,0,paintmag_production,node_type,def,Stores information about all defined node types.,NULL,1820,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:54:19,16384,NULL,16384,paintmag_production,oauth_common_consumer,def,"Keys and secrets for OAuth consumers, both those provided...",1,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:54:19,16384,NULL,16384,paintmag_production,oauth_common_context,def,Stores contexts for OAuth common,1,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:54:19,16384,NULL,16384,paintmag_production,oauth_common_nonce,def,Stores timestamp against nonce for repeat attacks.,NULL,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:54:19,16384,NULL,32768,paintmag_production,oauth_common_provider_consumer,def,Additional data for OAuth consumers provided by this site.,NULL,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:54:19,16384,NULL,16384,paintmag_production,oauth_common_provider_token,def,Additional data for OAuth tokens provided by this site.,NULL,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:54:19,16384,NULL,16384,paintmag_production,oauth_common_token,def,Tokens stored on behalf of providers or consumers for...,1,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,163,BASE TABLE,2018-07-24 08:54:19,81920,NULL,0,paintmag_production,paint_contest,def,<blank>,164,502,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,126,BASE TABLE,2018-07-24 08:54:20,49152,NULL,0,paintmag_production,paint_contest_2018,def,<blank>,227,390,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,224,BASE TABLE,2019-12-02 09:38:24,81920,NULL,0,paintmag_production,paint_contest_2019,def,<blank>,261,365,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,78,BASE TABLE,2020-01-06 11:34:18,16384,NULL,0,paintmag_production,paintradio_visitors_count,def,<blank>,202,210,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,26,BASE TABLE,2020-01-06 11:27:02,16384,NULL,0,paintmag_production,paintradio_visitors_count_2019,def,<blank>,88,630,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,45,BASE TABLE,2018-07-24 08:54:20,16384,NULL,0,paintmag_production,painttv_video_count,def,<blank>,65,364,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,212,BASE TABLE,2018-07-24 08:54:20,16384,NULL,0,paintmag_production,painttv_visitors_count,def,<blank>,269,77,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,4194304,10,NULL,Compact,819,BASE TABLE,2018-07-24 08:54:20,327680,NULL,0,paintmag_production,painttv_voter_list,def,<blank>,1820,400,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,1140,BASE TABLE,2018-07-24 08:54:20,278528,NULL,0,paintmag_production,painttv_voter_list_09mar2016,def,<blank>,1142,244,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,1147,BASE TABLE,2018-07-24 08:54:21,360448,NULL,0,paintmag_production,painttv_voter_list_archive,def,<blank>,1160,314,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,877,BASE TABLE,2018-07-24 08:54:22,196608,NULL,0,paintmag_production,painttv_voter_list_copy,def,<blank>,879,224,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,37,BASE TABLE,2018-07-24 08:54:23,49152,NULL,32768,paintmag_production,queue,def,Stores items in queues.,797,1328,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,2,BASE TABLE,2018-07-24 08:54:23,16384,NULL,0,paintmag_production,rdf_mapping,def,Stores custom RDF mappings for user defined content types...,NULL,8192,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,336,BASE TABLE,2018-07-24 08:54:23,98304,NULL,114688,paintmag_production,redirect,def,Stores information on redirects.,371,292,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,885,BASE TABLE,2018-07-24 08:54:23,147456,NULL,81920,paintmag_production,registry,def,"Each record is a function, class, or interface name and...",NULL,166,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,532,BASE TABLE,2018-07-24 08:54:24,114688,NULL,0,paintmag_production,registry_file,def,Files parsed to build the registry.,NULL,215,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,4,BASE TABLE,2018-07-24 08:54:24,16384,NULL,32768,paintmag_production,role,def,Stores user roles.,5,4096,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,272,BASE TABLE,2018-07-24 08:54:24,49152,NULL,16384,paintmag_production,role_permission,def,Stores the permissions assigned to user roles.,NULL,180,<blank>,0,utf8_general_ci
+InnoDB,NULL,4194304,10,NULL,Compact,173,BASE TABLE,2018-07-24 08:54:24,2637824,NULL,0,paintmag_production,search_dataset,def,Stores items that will be searched.,NULL,15247,<blank>,0,utf8_general_ci
+InnoDB,NULL,4194304,10,NULL,Compact,77917,BASE TABLE,2018-07-24 08:54:25,3686400,NULL,3686400,paintmag_production,search_index,def,"Stores the search index, associating words, items and...",NULL,47,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,15,BASE TABLE,2018-07-24 08:55:31,16384,NULL,16384,paintmag_production,search_node_links,def,"Stores items (like nodes) that link to other nodes, used...",NULL,1092,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,12071,BASE TABLE,2018-07-24 08:55:31,442368,NULL,0,paintmag_production,search_total,def,Stores search totals for words.,NULL,36,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:55:40,16384,NULL,32768,paintmag_production,semaphore,def,"Table for holding semaphores, locks, flags, etc. that...",NULL,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,1,BASE TABLE,2018-07-24 08:55:40,16384,NULL,0,paintmag_production,sequences,def,Stores IDs.,207,16384,<blank>,0,utf8_general_ci
+InnoDB,NULL,5242880,10,NULL,Compact,5228,BASE TABLE,2018-07-24 08:55:41,3162112,NULL,5292032,paintmag_production,sessions,def,Drupal’s session handlers read and write into the...,NULL,604,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:55:44,16384,NULL,0,paintmag_production,shortcut_set,def,Stores information about sets of shortcuts links.,NULL,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:55:44,16384,NULL,16384,paintmag_production,shortcut_set_users,def,Maps users to shortcut sets.,NULL,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,201,BASE TABLE,2018-07-24 08:55:44,196608,NULL,65536,paintmag_production,system,def,"A list of all modules, themes, and theme engines that are...",NULL,978,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,2308,BASE TABLE,2018-07-24 08:55:44,147456,NULL,163840,paintmag_production,taxonomy_index,def,Maintains denormalized information about node/term...,NULL,63,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,482,BASE TABLE,2018-07-24 08:55:46,114688,NULL,114688,paintmag_production,taxonomy_term_data,def,Stores term information.,653,237,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,481,BASE TABLE,2018-07-24 08:55:46,16384,NULL,16384,paintmag_production,taxonomy_term_hierarchy,def,Stores the hierarchical relationship between terms.,NULL,34,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,7,BASE TABLE,2018-07-24 08:55:46,16384,NULL,32768,paintmag_production,taxonomy_vocabulary,def,Stores vocabulary information.,9,2340,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,55,BASE TABLE,2018-07-24 08:55:46,114688,NULL,0,paintmag_production,top_jobs,def,<blank>,56,2085,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:55:46,16384,NULL,16384,paintmag_production,twitter,def,Stores individual Twitter posts.,NULL,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:55:46,16384,NULL,16384,paintmag_production,twitter_account,def,Stores information on specific Twitter user accounts.,NULL,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,1659,BASE TABLE,2018-07-24 08:55:47,196608,NULL,245760,paintmag_production,url_alias,def,A list of URL aliases for Drupal paths; a user may visit...,2527,118,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:55:48,16384,NULL,0,paintmag_production,url_redirect,def,The base table for URL Redirect menu items.,NULL,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,8,BASE TABLE,2018-07-24 08:55:48,16384,NULL,81920,paintmag_production,users,def,Stores user data.,NULL,2048,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,10,BASE TABLE,2018-07-24 08:55:48,16384,NULL,16384,paintmag_production,users_roles,def,Maps users to roles.,NULL,1638,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,378,BASE TABLE,2018-07-24 08:55:48,81920,NULL,0,paintmag_production,variable,def,Named variable/value pairs created by Drupal core or any...,NULL,216,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:55:48,16384,NULL,0,paintmag_production,video_output,def,Track file id for conveted files.,NULL,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:55:48,16384,NULL,16384,paintmag_production,video_preset,def,The preset table.,1,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:55:48,16384,NULL,32768,paintmag_production,video_queue,def,Store video transcoding queue.,1,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:55:48,16384,NULL,16384,paintmag_production,video_thumbnails,def,The video thumbnails table.,NULL,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,31,BASE TABLE,2018-07-24 08:55:48,229376,NULL,16384,paintmag_production,views_display,def,Stores information about each display attached to a view.,NULL,7399,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,12,BASE TABLE,2018-07-24 08:55:49,16384,NULL,16384,paintmag_production,views_view,def,Stores the general data for a view.,20,1365,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:55:49,16384,NULL,49152,paintmag_production,watchdog,def,Table that contains logs of all system events.,1,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,5,BASE TABLE,2018-07-24 08:55:49,16384,NULL,0,paintmag_production,wysiwyg,def,Stores Wysiwyg profiles.,NULL,3276,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2018-07-24 08:55:49,16384,NULL,32768,paintmag_production,wysiwyg_user,def,Stores user preferences for wysiwyg profiles.,NULL,0,<blank>,0,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2020-04-22 08:40:21,16384,NULL,0,top-job-contest,paint_contest_2019,def,<blank>,1,0,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2020-04-22 08:40:22,16384,NULL,0,top-job-contest,paintradio_visitors_count,def,<blank>,1,0,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,5,BASE TABLE,2020-04-22 08:40:36,16384,NULL,0,top-job-contest,tf_admin_login_history,def,<blank>,6,3276,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,80,BASE TABLE,2020-04-22 08:40:38,16384,NULL,0,top-job-contest,tf_admin_menu,def,<blank>,83,204,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,72,BASE TABLE,2020-04-22 08:40:40,16384,NULL,0,top-job-contest,tf_admin_user_menu,def,<blank>,73,227,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,715,BASE TABLE,2020-04-22 08:40:41,65536,NULL,0,top-job-contest,tf_association,def,<blank>,NULL,91,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,638,BASE TABLE,2020-04-22 08:40:43,131072,NULL,0,top-job-contest,tf_awards,def,<blank>,659,205,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2020-04-22 08:40:45,16384,NULL,0,top-job-contest,tf_block_ipaddress,def,<blank>,1,0,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2020-04-22 08:40:46,16384,NULL,0,top-job-contest,tf_block_user,def,<blank>,1,0,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,26,BASE TABLE,2020-04-22 08:40:48,16384,NULL,0,top-job-contest,tf_client,def,<blank>,27,630,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,15,BASE TABLE,2020-04-22 08:40:49,16384,NULL,0,top-job-contest,tf_columbia_entry,def,<blank>,606,1092,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,6,BASE TABLE,2020-04-22 08:40:51,16384,NULL,0,top-job-contest,tf_columbia_entry_2013,def,<blank>,1176,2730,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,22,BASE TABLE,2020-04-22 08:40:52,16384,NULL,0,top-job-contest,tf_columbia_entry_2014,def,<blank>,380,744,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,7,BASE TABLE,2020-04-22 08:40:54,16384,NULL,0,top-job-contest,tf_columbia_entry_2015,def,<blank>,29,2340,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,14,BASE TABLE,2020-04-22 08:40:55,16384,NULL,0,top-job-contest,tf_columbia_topjobs_2015,def,<blank>,139,1170,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,10,BASE TABLE,2020-04-22 08:40:57,16384,NULL,0,top-job-contest,tf_columbia_topjobs_2016,def,<blank>,140,1638,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,28,BASE TABLE,2020-04-22 08:40:58,65536,NULL,0,top-job-contest,tf_columbia_topjobs_2017,def,<blank>,81,2340,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,14,BASE TABLE,2020-04-22 08:41:00,65536,NULL,0,top-job-contest,tf_columbia_topjobs_2018,def,<blank>,45,4681,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,6,BASE TABLE,2020-04-22 08:41:01,16384,NULL,0,top-job-contest,tf_columbia_topjobs_2019,def,<blank>,33,2730,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,5,BASE TABLE,2020-04-22 08:41:03,16384,NULL,0,top-job-contest,tf_columbia_topjobs_2020,def,<blank>,13,3276,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,68,BASE TABLE,2020-04-22 08:41:04,458752,NULL,0,top-job-contest,tf_contest,def,<blank>,94,6746,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,2,BASE TABLE,2020-04-22 08:41:08,16384,NULL,0,top-job-contest,tf_contest_language,def,<blank>,3,8192,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2020-04-22 08:41:09,16384,NULL,0,top-job-contest,tf_contest_language_text,def,<blank>,1,0,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,52,BASE TABLE,2020-04-22 08:41:10,16384,NULL,0,top-job-contest,tf_contest_payment,def,<blank>,53,315,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,8,BASE TABLE,2020-04-22 08:41:12,16384,NULL,0,top-job-contest,tf_contest_plan,def,<blank>,9,2048,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,1558,BASE TABLE,2020-04-22 08:41:13,81920,NULL,0,top-job-contest,tf_contest_visits,def,<blank>,1705,52,<blank>,0,latin1_swedish_ci
+MyISAM,NULL,0,10,NULL,Dynamic,241,BASE TABLE,2020-04-22 08:41:15,5852,2020-04-22 08:41:16,5120,top-job-contest,tf_country,def,<blank>,242,24,<blank>,281474976710655,utf8_general_ci
+InnoDB,NULL,0,10,NULL,Compact,4,BASE TABLE,2020-04-22 08:41:17,16384,NULL,0,top-job-contest,tf_currency,def,<blank>,5,4096,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,122,BASE TABLE,2020-04-22 08:41:18,16384,NULL,0,top-job-contest,tf_division,def,<blank>,164,134,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,456,BASE TABLE,2020-04-22 08:41:20,81920,NULL,16384,top-job-contest,tf_division_category,def,<blank>,581,179,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,14,BASE TABLE,2020-04-22 08:41:21,16384,NULL,0,top-job-contest,tf_division_category_language_text,def,<blank>,15,1170,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,6,BASE TABLE,2020-04-22 08:41:23,16384,NULL,0,top-job-contest,tf_division_language_text,def,<blank>,7,2730,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,11,BASE TABLE,2020-04-22 08:41:24,16384,NULL,0,top-job-contest,tf_email_design_template,def,<blank>,12,1489,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,5,BASE TABLE,2020-04-22 08:41:26,16384,NULL,0,top-job-contest,tf_email_notification,def,<blank>,6,3276,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2020-04-22 08:41:27,16384,NULL,0,top-job-contest,tf_email_send_cron,def,<blank>,1,0,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2020-04-22 08:41:29,16384,NULL,0,top-job-contest,tf_email_send_cron_detail,def,<blank>,1,0,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2020-04-22 08:41:30,16384,NULL,0,top-job-contest,tf_email_target_audience,def,<blank>,1,0,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,50,BASE TABLE,2020-04-22 08:41:31,81920,NULL,0,top-job-contest,tf_email_templates,def,<blank>,67,1638,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,50,BASE TABLE,2020-04-22 08:41:33,81920,NULL,0,top-job-contest,tf_email_templates_bk,def,<blank>,67,1638,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,2811,BASE TABLE,2020-04-22 08:41:34,311296,NULL,114688,top-job-contest,tf_entry,def,<blank>,3607,110,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,3015,BASE TABLE,2020-04-22 08:41:37,294912,NULL,114688,top-job-contest,tf_entry_category,def,<blank>,3856,97,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,4194304,10,NULL,Compact,35657,BASE TABLE,2020-04-22 08:41:41,4734976,NULL,1589248,top-job-contest,tf_entry_detail,def,<blank>,41189,132,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,241,BASE TABLE,2020-04-22 08:42:08,16384,NULL,0,top-job-contest,tf_entry_filed_selection,def,<blank>,485,67,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,4194304,10,NULL,Compact,77,BASE TABLE,2020-04-22 08:42:09,1589248,NULL,0,top-job-contest,tf_entry_multipub,def,<blank>,NULL,20639,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,1355,BASE TABLE,2020-04-22 08:42:15,131072,NULL,65536,top-job-contest,tf_entry_options,def,<blank>,1477,96,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,1999,BASE TABLE,2020-04-22 08:42:17,344064,NULL,0,top-job-contest,tf_entry_payment,def,<blank>,2259,172,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,1821,BASE TABLE,2020-04-22 08:42:20,278528,NULL,0,top-job-contest,tf_field,def,<blank>,2597,152,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,1624,BASE TABLE,2018-07-24 08:59:00,262144,NULL,0,top-job-contest,tf_field-bk16Aug17,def,<blank>,2399,161,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,1624,BASE TABLE,2020-04-22 08:42:24,262144,NULL,0,top-job-contest,tf_field-bk16aug17,def,<blank>,2399,161,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,871,BASE TABLE,2020-04-22 08:42:27,98304,NULL,0,top-job-contest,tf_field_attribute,def,<blank>,1241,112,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,724,BASE TABLE,2018-07-24 08:59:02,81920,NULL,0,top-job-contest,tf_field_attribute-bk16Aug17,def,<blank>,1092,113,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,724,BASE TABLE,2020-04-22 08:42:29,81920,NULL,0,top-job-contest,tf_field_attribute-bk16aug17,def,<blank>,1092,113,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,406,BASE TABLE,2020-04-22 08:42:30,49152,NULL,0,top-job-contest,tf_field_condition,def,<blank>,414,121,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,1371,BASE TABLE,2020-04-22 08:42:32,81920,NULL,0,top-job-contest,tf_field_file_type,def,<blank>,2339,59,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,1821,BASE TABLE,2020-04-22 08:42:33,212992,NULL,0,top-job-contest,tf_field_language_text,def,<blank>,2598,116,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,1624,BASE TABLE,2018-07-24 08:59:06,196608,NULL,0,top-job-contest,tf_field_language_text-bk16Aug17,def,<blank>,2399,121,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,1624,BASE TABLE,2020-04-22 08:42:36,196608,NULL,0,top-job-contest,tf_field_language_text-bk16aug17,def,<blank>,2399,121,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,17,BASE TABLE,2020-04-22 08:42:39,16384,NULL,0,top-job-contest,tf_field_mapping,def,<blank>,18,963,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,21,BASE TABLE,2020-04-22 08:42:41,16384,NULL,0,top-job-contest,tf_field_mapping_child,def,<blank>,22,780,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,839,BASE TABLE,2020-04-22 08:42:42,98304,NULL,0,top-job-contest,tf_field_option,def,<blank>,1341,117,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,840,BASE TABLE,2020-04-22 08:42:44,81920,NULL,0,top-job-contest,tf_field_option_language_text,def,<blank>,1341,97,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2020-04-22 08:42:46,16384,NULL,0,top-job-contest,tf_field_option_temp,def,<blank>,1,0,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,5,BASE TABLE,2020-04-22 08:42:47,16384,NULL,0,top-job-contest,tf_field_system,def,<blank>,6,3276,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,8,BASE TABLE,2020-04-22 08:42:49,16384,NULL,0,top-job-contest,tf_field_type,def,<blank>,9,2048,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2020-04-22 08:42:50,16384,NULL,0,top-job-contest,tf_field_type_attribute,def,<blank>,2,0,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,15,BASE TABLE,2020-04-22 08:42:52,16384,NULL,0,top-job-contest,tf_file_types,def,<blank>,18,1092,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,69,BASE TABLE,2020-04-22 08:42:53,16384,NULL,0,top-job-contest,tf_form,def,<blank>,70,237,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,149,BASE TABLE,2020-04-22 08:42:55,16384,NULL,0,top-job-contest,tf_judge_entry_view,def,<blank>,179,109,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,31,BASE TABLE,2020-04-22 08:42:56,16384,NULL,0,top-job-contest,tf_judge_question,def,<blank>,32,528,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2020-04-22 08:42:58,16384,NULL,0,top-job-contest,tf_judge_question_text,def,<blank>,1,0,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,64,BASE TABLE,2020-04-22 08:42:59,16384,NULL,0,top-job-contest,tf_judge_round,def,<blank>,86,256,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,74,BASE TABLE,2020-04-22 08:43:01,16384,NULL,0,top-job-contest,tf_judge_round_question,def,<blank>,152,221,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,462,BASE TABLE,2020-04-22 08:43:03,65536,NULL,0,top-job-contest,tf_judge_round_user,def,<blank>,785,141,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,5,BASE TABLE,2020-04-22 08:43:04,16384,NULL,0,top-job-contest,tf_judge_round_voter_group,def,<blank>,12,3276,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,371,BASE TABLE,2020-04-22 08:43:06,114688,NULL,0,top-job-contest,tf_judge_score_questions,def,<blank>,384,309,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,466,BASE TABLE,2020-04-22 08:43:07,65536,NULL,0,top-job-contest,tf_judge_shortlist,def,<blank>,515,140,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,4,BASE TABLE,2020-04-22 08:43:09,16384,NULL,0,top-job-contest,tf_judge_type,def,<blank>,5,4096,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,3,BASE TABLE,2020-04-22 08:43:11,16384,NULL,0,top-job-contest,tf_language,def,<blank>,4,5461,<blank>,0,utf8_unicode_ci
+InnoDB,NULL,0,10,NULL,Compact,477,BASE TABLE,2020-04-22 08:43:12,81920,NULL,0,top-job-contest,tf_language_resource,def,<blank>,528,171,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,108,BASE TABLE,2020-04-22 08:43:14,16384,NULL,0,top-job-contest,tf_menu,def,tf_menu,215,151,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2020-04-22 08:43:15,16384,NULL,0,top-job-contest,tf_notification,def,<blank>,1,0,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,7,BASE TABLE,2020-04-22 08:43:16,16384,NULL,0,top-job-contest,tf_payment_type,def,<blank>,8,2340,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,62,BASE TABLE,2020-04-22 08:43:18,16384,NULL,0,top-job-contest,tf_report_fields,def,<blank>,64,264,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,71,BASE TABLE,2020-04-22 08:43:20,16384,NULL,0,top-job-contest,tf_report_filed_selection,def,<blank>,77,230,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,156,BASE TABLE,2020-04-22 08:43:21,49152,NULL,0,top-job-contest,tf_resource,def,<blank>,160,315,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2020-04-22 08:43:23,16384,NULL,0,top-job-contest,tf_site_config,def,<blank>,NULL,0,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,31,BASE TABLE,2020-04-22 08:43:24,49152,NULL,0,top-job-contest,tf_sponsors,def,<blank>,34,1585,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2020-04-22 08:43:26,16384,NULL,0,top-job-contest,tf_strongmail,def,<blank>,1,0,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,60,BASE TABLE,2020-04-22 08:43:27,16384,NULL,0,top-job-contest,tf_system_notification,def,<blank>,414,273,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,47,BASE TABLE,2020-04-22 08:43:29,16384,NULL,0,top-job-contest,tf_template,def,<blank>,48,348,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,8,BASE TABLE,2020-04-22 08:43:31,16384,NULL,0,top-job-contest,tf_template_private,def,<blank>,9,2048,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,2,BASE TABLE,2020-04-22 08:43:32,16384,NULL,0,top-job-contest,tf_ticket,def,<blank>,3,8192,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2020-04-22 08:43:34,16384,NULL,0,top-job-contest,tf_ticket_email,def,<blank>,1,0,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,3,BASE TABLE,2020-04-22 08:43:35,16384,NULL,0,top-job-contest,tf_ticket_history,def,<blank>,4,5461,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,17,BASE TABLE,2020-04-22 08:43:37,16384,NULL,0,top-job-contest,tf_ticket_type,def,<blank>,18,963,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2020-04-22 08:43:38,16384,NULL,0,top-job-contest,tf_unauthorized_access,def,<blank>,1,0,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,4194304,10,NULL,Compact,4025,BASE TABLE,2020-04-22 08:43:40,1589248,NULL,0,top-job-contest,tf_user,def,<blank>,4223,394,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,4194304,10,NULL,Compact,3832,BASE TABLE,2018-07-24 08:59:15,1589248,NULL,0,top-job-contest,tf_user_bk3Nov16,def,<blank>,3998,414,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,4194304,10,NULL,Compact,3834,BASE TABLE,2020-04-22 08:43:46,1589248,NULL,0,top-job-contest,tf_user_bk3nov16,def,<blank>,3998,414,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,0,BASE TABLE,2020-04-22 08:43:53,16384,NULL,0,top-job-contest,tf_user_copy,def,<blank>,1,0,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,25,BASE TABLE,2020-04-22 08:43:54,16384,NULL,0,top-job-contest,tf_user_last_url_visits,def,<blank>,3443,655,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,1958,BASE TABLE,2020-04-22 08:43:55,229376,NULL,0,top-job-contest,tf_user_login_history,def,<blank>,2046,117,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,793,BASE TABLE,2020-04-22 08:43:58,65536,NULL,0,top-job-contest,tf_user_menu,def,<blank>,1480,82,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,9,BASE TABLE,2020-04-22 08:43:59,16384,NULL,0,top-job-contest,tf_user_type,def,<blank>,10,1820,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,345,BASE TABLE,2020-04-22 08:44:01,65536,NULL,0,top-job-contest,tf_vote,def,<blank>,400,189,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,1118,BASE TABLE,2020-04-22 08:44:03,131072,NULL,0,top-job-contest,tf_vote_detail,def,<blank>,1246,117,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,1232,BASE TABLE,2020-04-22 08:44:04,294912,NULL,0,top-job-contest,tf_vote_review,def,<blank>,1333,239,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,3424,BASE TABLE,2020-04-22 08:44:07,245760,NULL,0,top-job-contest,tf_vote_score_questions,def,<blank>,3881,71,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,65,BASE TABLE,2020-04-22 08:44:10,16384,NULL,0,top-job-contest,tf_voter,def,<blank>,3178,252,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,7,BASE TABLE,2020-04-22 08:44:11,16384,NULL,0,top-job-contest,tf_voter_group,def,<blank>,9,2340,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,4,BASE TABLE,2020-04-22 08:44:13,16384,NULL,0,top-job-contest,tf_voter_import,def,<blank>,7,4096,<blank>,0,latin1_swedish_ci
+InnoDB,NULL,0,10,NULL,Compact,59,BASE TABLE,2020-04-22 08:44:14,16384,NULL,0,top-job-contest,tf_winner,def,<blank>,60,277,<blank>,0,latin1_swedish_ci
+
